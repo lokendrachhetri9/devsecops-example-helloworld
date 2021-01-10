@@ -30,13 +30,13 @@
 	<repository>
 		<id>gitTestRepo</id>
 		<name>Internal Releases</name>
-		<url>http://3.236.125.200:8081/repository/maven-releases/</url>
+		<url>http://localhost:8081/repository/maven-releases/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>gitTestRepo</id>
 		<name>Internal Releases</name>
-		<url>http://3.236.125.200:8081/repository/maven-snapshots/</url>
+		<url>http://localhost:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
        </distributionManagement>
 
